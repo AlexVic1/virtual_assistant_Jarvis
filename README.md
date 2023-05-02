@@ -8,9 +8,10 @@ The following voice commands can be used"<br>
 
 - "Google search" 
 - "Wikipaida search"
-- "YouTube search"
+- "YouTube search"<br>
+- 
 after that say what you would you like to search 
 
-- sending email or whatsapp 
+- sending email or whatsapp <br>
 Please send a... to  
 
